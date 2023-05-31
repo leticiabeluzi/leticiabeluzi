@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="300" src="banner.jpg" />
+  <img height="250" src="banner.jpg" />
 </div>
 
 <div align="center">
-  <img height="300" style="margin-right: 1.5rem" src="https://github-readme-stats.vercel.app/api?username=leticiabeluzi&theme=dark&show_icons=true" />
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabeluzi&theme=dark" />
+  <img height="250" style="margin-right: 1.5rem" src="https://github-readme-stats.vercel.app/api?username=leticiabeluzi&theme=dark&show_icons=true" />
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiabeluzi&theme=dark" />
 </div>
 
 <div align="center">
