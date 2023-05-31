@@ -12,5 +12,8 @@
 </div>
 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiabeluzi&repo=FrontEnd&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiabeluzi&repo=FrontEnd&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiabeluzi&repo=Projeto-nlw&theme=dark" />
 </a>
