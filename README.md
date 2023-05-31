@@ -10,3 +10,7 @@
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=leticiabeluzi&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </div>
+
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leticiabeluzi&repo=FrontEnd.github.io&theme=buefy" />
+</a>
