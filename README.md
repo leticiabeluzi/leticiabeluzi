@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="155" src="banner1.jpg"/>
+  <img height="155" src="banner.jpg"/>
 </div>
 
 <div align="center">
@@ -10,4 +10,3 @@
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=leticiabeluzi&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </div>
-
